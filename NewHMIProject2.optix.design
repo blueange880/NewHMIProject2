@@ -6,7 +6,7 @@ Project:
  Copyright: ''
  FormatVersion: 1
  ProductVersion: 1.0
- CoreVersion: 1.0
+ CoreVersion: 1.1
  Dependencies:
   2:
    Uri: NewHMIProject2
